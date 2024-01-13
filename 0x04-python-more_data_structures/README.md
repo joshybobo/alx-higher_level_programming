@@ -1,0 +1,1 @@
+Data structure to implement a dictionary is a hash table. Hash tables provide efficient insertion, deletion, and lookup operations, making them well-suited for storing key-value pairs, which is the fundamental structure of a dictionary
